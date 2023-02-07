@@ -1,1 +1,1 @@
-Directorty readme
+My first readme
